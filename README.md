@@ -1,8 +1,8 @@
-# PDF Research Library Manager
+# PDF Renamer
 
 ## Overview
 
-PDF Research Library Manager is a Python-based GUI application designed to automate the organization of academic literature.
+PDF Renamer is a Python-based GUI application designed to automate the organization of academic literature.
 
 The tool reads PDF metadata and first-page content to generate meaningful filenames, detects duplicate files using SHA256 hashing, copies renamed files to a destination folder, and creates an Excel log for tracking changes.
 
